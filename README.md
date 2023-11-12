@@ -1,4 +1,5 @@
-# Orthogonal-Butterfly
+# Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization
+
 This is the official implementation of "Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization". 
 
 Code is coming soon. Stay tuned.
