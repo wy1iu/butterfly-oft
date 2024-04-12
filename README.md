@@ -1,5 +1,5 @@
 # Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization
 
-This is the official implementation of "Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization". 
+The official implementation of "Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization" now lives in [the Hugging Face PEFT library](https://github.com/huggingface/peft).
 
-Code is coming soon. Stay tuned.
+For the usage guide, see [this page](https://huggingface.co/docs/peft/main/en/conceptual_guides/oft).
